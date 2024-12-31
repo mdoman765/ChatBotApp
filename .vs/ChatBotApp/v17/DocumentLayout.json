@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ChatBotApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\user\\source\\repos\\chatbotapp\\chatbotapp\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\user\\source\\repos\\chatbotapp\\chatbotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\user\\source\\repos\\chatbotapp\\chatbotapp\\views\\chatbot\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\views\\chatbot\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\user\\source\\repos\\chatbotapp\\chatbotapp\\views\\chat\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\views\\chat\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\user\\source\\repos\\chatbotapp\\chatbotapp\\models\\chatbotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\models\\chatbotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\.nuget\\packages\\openai-dotnet\\8.4.1\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\user\\source\\repos\\chatbotapp\\chatbotapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\user\\source\\repos\\chatbotapp\\chatbotapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\user\\source\\repos\\chatbotapp\\chatbotapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\user\\source\\repos\\chatbotapp\\chatbotapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\user\\source\\repos\\chatbotapp\\chatbotapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\user\\source\\repos\\chatbotapp\\chatbotapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{289B6B27-B78E-4615-B130-59AC17B870CE}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\openai-dotnet\\8.4.1\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\openai-dotnet\\8.4.1\\README.md",
+              "ToolTip": "C:\\Users\\User\\.nuget\\packages\\openai-dotnet\\8.4.1\\README.md [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\openai-dotnet\\8.4.1\\README.md [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-31T03:10:15.153Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\Chat\\Chat.cshtml",
+              "RelativeDocumentMoniker": "ChatBotApp\\Views\\Chat\\Chat.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\Chat\\Chat.cshtml",
+              "RelativeToolTip": "ChatBotApp\\Views\\Chat\\Chat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T03:03:01.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatBotApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ChatBotApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T02:31:16.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChatBotApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChatBotApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T02:28:33.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChatBotApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChatBotApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T02:28:16.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatBotApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\appsettings.json",
+              "RelativeToolTip": "ChatBotApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T02:28:06.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Program.cs",
+              "RelativeDocumentMoniker": "ChatBotApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Program.cs",
+              "RelativeToolTip": "ChatBotApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:25:18.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\ChatBot\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatBotApp\\Views\\ChatBot\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\ChatBot\\Index.cshtml",
+              "RelativeToolTip": "ChatBotApp\\Views\\ChatBot\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T02:24:48.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatBotModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Models\\ChatBotModel.cs",
+              "RelativeDocumentMoniker": "ChatBotApp\\Models\\ChatBotModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Models\\ChatBotModel.cs",
+              "RelativeToolTip": "ChatBotApp\\Models\\ChatBotModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:21:21.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatBotController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Controllers\\ChatBotController.cs",
+              "RelativeDocumentMoniker": "ChatBotApp\\Controllers\\ChatBotController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Controllers\\ChatBotController.cs",
+              "RelativeToolTip": "ChatBotApp\\Controllers\\ChatBotController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:22:05.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ChatBotApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ChatBotApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T02:28:18.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ChatBotApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatBotApp\\ChatBotApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ChatBotApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T02:28:13.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

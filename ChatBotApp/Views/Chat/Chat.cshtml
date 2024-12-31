@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Chat with AI";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (ViewBag.Response != null)
+{
+    <div>
+        <strong>Assistant's Response:</strong>
+        <p>@ViewBag.Response</p>
+    </div>
+}
+
+@if (ViewBag.Error != null)
+{
+    <div style="color: red;">
+        <strong>Error:</strong>
+        <p>@ViewBag.Error</p>
+    </div>
+}
+
